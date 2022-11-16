@@ -1,0 +1,13 @@
+C:\Users\johan\source\repos\FileDump\bin\Debug\net7.0\FileDump.exe
+C:\Users\johan\source\repos\FileDump\bin\Debug\net7.0\FileDump.deps.json
+C:\Users\johan\source\repos\FileDump\bin\Debug\net7.0\FileDump.runtimeconfig.json
+C:\Users\johan\source\repos\FileDump\bin\Debug\net7.0\FileDump.dll
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.Properties.Resources.resources
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.AssemblyInfo.cs
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.dll
+C:\Users\johan\source\repos\FileDump\obj\Debug\net7.0\FileDump.genruntimeconfig.cache
